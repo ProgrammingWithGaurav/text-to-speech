@@ -43,6 +43,7 @@ textarea:focus{
 .speak img{
     width: 15px;
     height: 25px;
+    margin-bottom: 5px;
 }
 
 .speak{
